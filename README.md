@@ -12,3 +12,4 @@ Currently situated in Rio de Janeiro - Brazil. <br>
   - :godmode: Hopes: Honestly, just don't be a hustle.
  
 #### I look forward to coding with you!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n9it-0)](https://github.com/anuraghazra/github-readme-stats)
